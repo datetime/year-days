@@ -1,0 +1,34 @@
+{
+  "name": "year-days",
+  "version": "0.0.0",
+  "description": "Get the number of days in a year",
+  "license": "MIT",
+  "repository": "sindresorhus/year-days",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "year",
+    "days",
+    "date",
+    "number",
+    "count"
+  ],
+  "dependencies": {
+    "leap-year": "^0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
