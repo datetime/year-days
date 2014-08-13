@@ -1,6 +1,6 @@
 {
   "name": "year-days",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Get the number of days in a year",
   "license": "MIT",
   "repository": "sindresorhus/year-days",
