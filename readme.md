@@ -1,11 +1,11 @@
-# year-days [![Build Status](https://travis-ci.org/sindresorhus/year-days.svg?branch=master)](https://travis-ci.org/sindresorhus/year-days)
+# year-days [![Build Status](https://travis-ci.org/datetime/year-days.svg?branch=master)](https://travis-ci.org/datetime/year-days)
 
 > Get the number of days in a year
 
 
 ## Install
 
-```sh
+```
 $ npm install --save year-days
 ```
 
